@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4957D920-4E45-4724-9ECF-8039240DA894</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NN</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFE78043FB3C092C0B42525F8A752D5BF5C70A64</key>
+		<string>github.com:Amencome/mengyingjin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NN/NN.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFE78043FB3C092C0B42525F8A752D5BF5C70A64</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Amencome/mengyingjin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFE78043FB3C092C0B42525F8A752D5BF5C70A64</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFE78043FB3C092C0B42525F8A752D5BF5C70A64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>menyingjin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
